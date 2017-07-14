@@ -18,15 +18,15 @@ module.exports = function(config) {
       './node_modules/angular/angular.js', // angular
       './node_modules/@uirouter/angularjs/release/angular-ui-router.js', // ui-router
       './node_modules/angular-mocks/angular-mocks.js', // loads our modules for tests
-      './app/services/users/users.js', // our Users factory
-      './app/services/posts/posts.js', // our Posts factory
-      './app/components/users/users.js',
-      './app/filters/capitalize/capitalize.js',
-      './app/app.js', // our angular app
-      './app/services/users/users.spec.js', // our test file for our Users factory
-      './app/services/posts/posts.spec.js', // our test file for our Users factory
-      './app/components/users/users.spec.js',
-      './app/filters/capitalize/capitalize.spec.js'
+      './docs/services/users/users.js', // our Users factory
+      './docs/services/posts/posts.js', // our Posts factory
+      './docs/components/users/users.js',
+      './docs/filters/capitalize/capitalize.js',
+      './docs/docs.js', // our angular app
+      './docs/services/users/users.spec.js', // our test file for our Users factory
+      './docs/services/posts/posts.spec.js', // our test file for our Users factory
+      './docs/components/users/users.spec.js',
+      './docs/filters/capitalize/capitalize.spec.js'
     ],
 
 

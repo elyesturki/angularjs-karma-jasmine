@@ -6,7 +6,7 @@ let bodyParser = require('body-parser');
 let morgan = require('morgan');
 let path = require('path');
 
-let rootPath = path.join(__dirname + '/app');
+let rootPath = path.join(__dirname + '/docs');
 
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
