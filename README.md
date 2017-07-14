@@ -34,6 +34,8 @@ Fake Online REST API for Testing and Prototyping
 
 * [Testing AngularJS with Jasmine and Karma (Part 2)](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2)
 
+* [Angular 2 with Travis CI](https://medium.com/from-the-couch/angular-2-with-travis-ci-922040e01937)
+
 
 ## License
 
